@@ -127,3 +127,8 @@ a.active::after {
     font-weight: 600;
     margin-top: 1rem;
 }
+
+.hero a:hover {
+    background-color: var(--violet-fonce);
+    transform: translateY(-3px);
+}
