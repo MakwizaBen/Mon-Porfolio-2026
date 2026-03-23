@@ -126,6 +126,7 @@ a.active::after {
     letter-spacing: 1.1px;
     font-weight: 600;
     margin-top: 1rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 .hero a:hover {
